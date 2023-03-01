@@ -4,7 +4,6 @@
 
 -   [node > v15.0.0](https://nodejs.org/en/download/)
 -   [git](https://git-scm.com/downloads)
--   [mongo db free tier cluster](https://www.mongodb.com/cloud/atlas/register)
 -   [vs code rest client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) (Optional)
 
 ### Running this project
