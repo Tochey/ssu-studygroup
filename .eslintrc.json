@@ -10,5 +10,8 @@
         "object-shorthand": "off",
         "class-methods-use-this": "off"
     },
-    "ignorePatterns": ["node_modules/", "dist/", "frontend/"]
+    "ignorePatterns": ["node_modules/", "dist/", "frontend/vite.config.js"],
+    "parserOptions": {
+        "sourceType": "module"
+    }
 }

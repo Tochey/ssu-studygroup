@@ -1,6 +1,9 @@
 const express = require('express')
 const app = express()
+const dbConnection = require('./config/db.config')
 const SERVER_PORT = 8080
+
+dbConnection()
 
 app.get('/', (req, res) => res.send('Hello World!'))
 
