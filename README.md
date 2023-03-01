@@ -9,7 +9,7 @@
 - git clone https://github.com/Tochey/ssu-studygroup.git
 
 #### Server
-- cd ssu-studygroup/backend
+- cd ssu-studygroup
 - npm install
 - npm start
 
